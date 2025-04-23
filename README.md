@@ -74,7 +74,6 @@ This project uses only standard Java Library components.
 ---
 
 ## Contributors
-**Project Group 1**\
 Members:
   - Samir Ahmadi
   - Farid Jamshid
