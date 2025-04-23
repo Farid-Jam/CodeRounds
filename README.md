@@ -1,5 +1,5 @@
 #  CodeRounds
-A real-time collaborative coding interview platform built in Java, designed to streamline remote technical interviews with features for both interviewers and interviewees.
+A real-time collaborative coding interview designed to streamline remote technical interviews with features for both interviewers and interviewees.
 
 ---
 
