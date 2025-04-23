@@ -8,7 +8,7 @@ A real-time collaborative coding interview platform built in Java, designed to s
 This project enables interviewers and interviewees to collaborate in real-time during coding interviews. It offers the ability to share code in an editor, track cursors, communicate via chat, and includes a secure login system for managing users. While running, you can open files to and save the text of the editor. There is also an included timer to help the interviewer and interviewees keep track of any set time constraints. The system is built using Java Sockets for client-server communication, Swing for the GUI, and a simple file system to save/load user code.
 
 <div align="center">
-  <img src="CodeRoundsScreenshot.png">
+  <img src="images/CodeRoundsScreenshot.png">
 </div>
 
 ---
