@@ -1,5 +1,5 @@
 #  CodeRounds
-A real-time collaborative coding interview designed to streamline remote technical interviews with features for both interviewers and interviewees.
+A real-time collaborative coding interview portal designed to streamline remote technical interviews with features for both interviewers and interviewees.
 
 ---
 
